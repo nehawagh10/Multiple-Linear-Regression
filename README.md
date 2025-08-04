@@ -28,7 +28,5 @@ This project demonstrates Multiple Linear Regression on a car dataset.
 2. Open the notebook in Jupyter or Google Colab
 3. Run all cells to see the analysis and model results
 
-## 📬 Contact
 
-Feel free to reach out if you have any questions!
 
